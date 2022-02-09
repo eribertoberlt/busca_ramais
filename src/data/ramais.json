@@ -1,9 +1,7 @@
 {
     "ramais": [
-        {"ramal":"3000","pessoa":"WEIG OLIVEIRA MARTINS","dpto":"DTI","entidade":"FAMP - FACULDADE MORGANA POTRICH"},
-        {"ramal":"3000","pessoa":"WEIG OLIVEIRA MARTINS","dpto":"DTI","entidade":"FAMP - FACULDADE MORGANA POTRICH"},
-        {"ramal":"3000","pessoa":"WEIG OLIVEIRA MARTINS","dpto":"DTI","entidade":"FAMP - FACULDADE MORGANA POTRICH"},
-        {"ramal":"3000","pessoa":"WEIG OLIVEIRA MARTINS","dpto":"DTI","entidade":"FAMP - FACULDADE MORGANA POTRICH"},
-        {"ramal":"3000","pessoa":"WEIG OLIVEIRA MARTINS","dpto":"DTI","entidade":"FAMP - FACULDADE MORGANA POTRICH"}
+        {"ramal":"300","pessoa":"Colaborador Taquari","dpto":"DTI","filial":"Alto Taquari"},
+        {"ramal":"200","pessoa":"Colaborador Mineiros","dpto":"DTI","filial":"Mineiros"},
+        {"ramal":"400","pessoa":"Colaborador Caiapônia","dpto":"DTI","filial":"Caiapônia"}
     ]
 }

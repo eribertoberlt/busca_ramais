@@ -7,7 +7,7 @@ var Item = (props)=>{
         <td>{props.ramal}</td>
         <td>{props.nome}</td>
         <td>{props.dpto}</td>
-        <td>{props.entidade}</td>
+        <td>{props.filial}</td>
         </>
     )
 }

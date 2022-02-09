@@ -54,7 +54,7 @@ var Ramal = (props)=>{
                         <th>Ramal</th>
                         <th>Colaborador</th>
                         <th>Departamento</th>
-                        <th>Entidade</th>
+                        <th>Filial</th>
                     </tr>
                 </thead>
                 <tbody>
