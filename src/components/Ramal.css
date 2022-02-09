@@ -1,0 +1,58 @@
+.Table{
+    width: 90vw;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4vw;
+}
+
+.Table thead tr th {
+    color: #387C2B;
+}
+
+.row:hover{
+    background-color: #27531e;
+    color: white;
+}
+
+.par{
+    background-color: #387C2B;
+    color: #FFFFFF;
+}
+
+.impar{
+    background-color: #FFFFFF;
+    color: #387C2B;
+}
+
+.header{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.header p{
+    color: #387C2B;
+}
+
+.header div{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.header div label{
+    color: #387C2B;
+}
+
+.logo{
+    width: 300px;
+}
+
+.input {
+    width: 250px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border-color: #387C2B;
+    font-size: 14px;
+}
